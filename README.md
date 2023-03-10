@@ -9,4 +9,5 @@ The current features of the project include:
 Users can create and edit new blog posts
 Users can leave comments and like posts
 A simple and user-friendly interface
+
 More features and improvements will be added soon. Please note that the project is still in development and we will provide further updates in the near future.
