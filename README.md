@@ -1,3 +1,5 @@
+# A blog script made with Codeigniter Framework
+
 This project aims to develop a simple blog site script using the Codeigniter Framework. The script allows users to easily create and edit new blog posts, as well as leave comments and like posts.
 
 The project is currently in the development phase and is expected to be completed soon. When finished, you will be able to use the project to create your own blog site easily.
